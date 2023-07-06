@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "378C5D60-B595-431B-AEA0-F5A6E4A2747A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "582B7094-3DBA-4A5C-977F-34E1C2F61ED6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "C#webview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "buttonClickEventTriggered()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "582B7094-3DBA-4A5C-977F-34E1C2F61ED6 - 23fc1ffa121caabd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C_webview.ViewController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "C#webview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guilherme/Downloads/C%23Webview/C%23webview/C%23webview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "582B7094-3DBA-4A5C-977F-34E1C2F61ED6 - a416e0c2822e093a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C_webview.ViewController.buttonClickEventTriggered() -&gt; Swift.String"
+                  moduleName = "C#webview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guilherme/Downloads/C%23Webview/C%23webview/C%23webview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B0B5FDA-B37C-44AA-A47D-86F9183A9B11"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "C#webview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE5AB5E4-5F7A-4DB9-8269-AA205F0B5AD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "C#webview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "userContentController(_:didReceive:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CE5AB5E4-5F7A-4DB9-8269-AA205F0B5AD0 - 23fc1ffa121caa21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C_webview.ViewController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "C#webview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guilherme/Downloads/C%23Webview/C%23webview/C%23webview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "CE5AB5E4-5F7A-4DB9-8269-AA205F0B5AD0 - 23fc1ffa121caa21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C_webview.ViewController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "C#webview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guilherme/Downloads/C%23Webview/C%23webview/C%23webview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0A0BF5C-383C-4F61-9E0F-D9CCD55E4D1A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "C#webview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "webConfig"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A59E6C1D-30A8-4427-B38F-EA697FE17169"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "C#webview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "211850BA-14FE-4610-9D9F-56A0626AF5FF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "C#webview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "211850BA-14FE-4610-9D9F-56A0626AF5FF - c935c7dd6d43966c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C_webview.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "C#webview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guilherme/Downloads/C%23Webview/C%23webview/C%23webview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "211850BA-14FE-4610-9D9F-56A0626AF5FF - c935c7dd6d43966c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C_webview.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "C#webview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guilherme/Downloads/C%23Webview/C%23webview/C%23webview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "604">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
